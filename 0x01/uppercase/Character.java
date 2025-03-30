@@ -1,4 +1,4 @@
-public class Character {
+class TheCharacter {
     public static boolean IsUpper(char c) {
         return c >= 'A' && c <= 'Z';
     }
